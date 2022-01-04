@@ -1,2 +1,2 @@
 # Web-Development
-Web Development Using HTML, CSS, and JavaScript
+Web Development Using HTML, CSS, and JavaScript.
